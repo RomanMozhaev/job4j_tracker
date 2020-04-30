@@ -1,0 +1,1 @@
+CREATE TABLE items (item_id serial primary key, item_name varchar(100), item_desc varchar(500), item_time timestamp);
